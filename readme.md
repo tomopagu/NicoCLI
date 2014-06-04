@@ -5,7 +5,7 @@ Start of a site based on NicoSound/Nicomimi that puts a focus on ease of use.
 At the moment this is just a bad command line interface not focusing on ease of use and telling me I can do this.
 
 ### Install
-1. Grab Node
+1. Grab [NodeJS](http://nodejs.org/) & [FFmpeg](http://www.ffmpeg.org/)
 2. Run `npm install coffee-script -g`
 3. Clone this repo to a folder of your choice and inside run `npm install`
 4. Make edits to the app.coffee file to change it to your email & password
