@@ -2,7 +2,7 @@
 
 ## A Command Line NND MP3 Ripper
 
-The basis of [Nico](https://github.com/Tomo-san/nico) in cli form for quicker (?) use. At the moment is super basic and rips at 128k cause I want to make everyones ears bleed in horror.
+The basis of [Nico](https://github.com/Tomo-san/Nico) in cli form for quicker (?) use. At the moment is super basic and rips at 128k cause I want to make everyones ears bleed in horror.
 
 ### Install
 1. Grab [NodeJS](http://nodejs.org/) & [FFmpeg](http://www.ffmpeg.org/)
