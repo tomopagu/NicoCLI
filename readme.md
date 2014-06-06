@@ -1,8 +1,8 @@
-# NicoMP3
+# NicoCLI
 
-Start of a site based on NicoSound/Nicomimi that puts a focus on ease of use.
+## A Command Line NND MP3 Ripper
 
-At the moment this is just a bad command line interface not focusing on ease of use and telling me I can do this.
+The basis of [Nico](https://github.com/Tomo-san/nico) in cli form for quicker (?) use. At the moment is super basic and rips at 128k cause I want to make everyones ears bleed in horror.
 
 ### Install
 1. Grab [NodeJS](http://nodejs.org/) & [FFmpeg](http://www.ffmpeg.org/)
@@ -14,4 +14,3 @@ At the moment this is just a bad command line interface not focusing on ease of 
 ### Roadmap
 - Make the command line interface have a progress bar and more info logged on what it's doing for the user.
 - Options for changing the format / quality of audio conversion
-- An actual site so users can input an sm code and get back an mp3 ala NicoSound
